@@ -1,0 +1,17 @@
+//number 1
+public String getHost(){
+    return this.hostName;
+}
+//number 2
+public String updateAddress(String update){
+    return this.address = update;
+}
+//number 3
+public String invite(String invited){
+    return "Dear " + invited + " I hope to see you at " + address + " see you then, " + host;
+}
+//number 4
+public Invitation(String addy}{
+    address = addy;
+    hostName = "Host";
+}

@@ -1,0 +1,9 @@
+Enter the name of the file with the personality data: uw_big_data.txt
+
+        Dr. Kenneth Noisewater:         30         40         65         35 = ESFJ
+BBBAAAAB-AAAAABABAAABbBbBBAAAA-BAAABABAABABAABAAABAAAAAABBABABABBAAAbA:         90         30          5         55 = ISTP
+       Zilean The Chronokeeper:         60         80         55         70 = INFP
+    lfkujyftuktdkutdiu8r6ufky6:         90         85         85         60 = INFP
+Sir Dr. John H. C. Hufflepuff III MD PhD:         70         35         60         50 = ISFX
+\n\n\n\n\n\nMr. Woodman from Welcome Back Kotter\n\n\n\n\n\n:        100        100        100        100 = INFP
+     El Destructosaur Furnache:         90         60         50         60 = INXP
